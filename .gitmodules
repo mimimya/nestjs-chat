@@ -1,0 +1,3 @@
+[submodule "nest-socket-io-chat"]
+	path = nest-socket-io-chat
+	url = https://github.com/mimimya/nestjs-socket-io-chat.git
